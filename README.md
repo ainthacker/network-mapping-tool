@@ -76,4 +76,4 @@ MIT
 
 ## Created by
 
-AinThacker 
+Ainthacker 
